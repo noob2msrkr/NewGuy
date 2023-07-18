@@ -1,2 +1,1 @@
-# NewGuy
-What you gonna do?
+# NewGuy?
